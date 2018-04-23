@@ -36,6 +36,12 @@
 
 # 职业专长
 
+## 程序语言
+* Python，Java，Android
+
+## Web语言
+* HTML，Jquery，JavaScript，CSS
+
 ## 框架
 * SSH、SSM、SpringBoot
 * Redis
